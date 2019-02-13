@@ -649,8 +649,8 @@
             <description>Позволяет пассажирам быстрее перемещаться на длинные расстояния.</description>
         </MovingWalkway>
         <FlightInfoDisplayXL>
-            <name>Flight Info Display XL</name>
-            <description>A larger flight information display unit with improved area of effect.</description>
+            <name>Большой информационный дисплей</name>
+            <description>Увеличенный дисплей отображения информации о полете с улучшенной зоной действия.</description>
         </FlightInfoDisplayXL>
         <FlightInfoServer>
             <name>Flight Info Server</name>
@@ -673,36 +673,36 @@
             <description>Pax will be nostalgic over this gem!</description>
         </ArcadePinball>
         <DigitalAdDisplay>
-            <name>Digital Ad Display</name>
-            <description>Though maybe annoying to the pax (negative environment impact), it will bring in some extra revenue.  How much depends on how much foot traffic is nearby!</description>
+            <name>Рекламный дисплей</name>
+            <description>Хотя он может раздражать людей (негативное воздействие на окружающую среду), это принесет дополнительный доход.  Как много зависит от того, сколько людей находится поблизости!</description>
         </DigitalAdDisplay>
         <DrinkVending>
-            <name>Drink Vending</name>
-            <description>Passengers get thirsty and this is one solution to the problem.  Plus, a little extra revenue never hurts (make sure to set the price accordingly)!</description>
+            <name>Торговый автомат с напитками</name>
+            <description>Пассажиры испытывают жажду, и это одно из решений проблемы.  Плюс, немного дополнительного дохода никогда не повредит (убедитесь, что установили соответствующую цену)!</description>
         </DrinkVending>
         <FlightInfoKiosk>
             <name>Flight Info Kiosk</name>
             <description>Passengers often need help finding where they're going so that they can make their flight on time, and these machines are the absolute gold standard.  The bell might not save them, but it's all right - with this kiosk they'll be at the corner just in time!</description>
         </FlightInfoKiosk>
         <BoosterPanel>
-            <name>Booster Panel</name>
-            <description>Provides additional sorting capacity to your Baggage Hubs so that they are able to sort more bags per minute.  Limit 2 per Baggage Hub.</description>
+            <name>Бустерная панель</name>
+            <description>Предоставляет дополнительные возможности сортировки вашим багажным центрам, чтобы они могли сортировать больше чемоданов в минуту.  Лимит 2 для Багажного узла.</description>
         </BoosterPanel>
         <FuelingStation>
-            <name>Refuel Station</name>
-            <description>Provide your Fuel Trucks with access to the fuel in your networked storage tanks.  Allows refueling services to be offered by your airport.</description>
+            <name>Заправочная станция</name>
+            <description>Предоставьте своим бензовозам доступ к топливу в ваших сетевых хранилищах.  Предоставляет услуги заправки, Вашим аэропортом.</description>
         </FuelingStation>
         <FoodWarmer>
-            <name>Hot Food Display</name>
-            <description>Build in Cafes to show off your fresh food cooked by the kitchens! Passengers pick these up and take them to a cash register.</description>
+            <name>Дисплей горячих блюд</name>
+            <description>Постройте в кафе, чтобы показать ваши горячие блюда, приготовленные на кухне! Пассажиры забирают их и относят на кассу.</description>
         </FoodWarmer>
         <FoodCooler>
-            <name>Chilled Food Display</name>
-            <description>Build in Cafes to show off your fresh food cooked by the kitchens! Passengers pick these up and take them to a cash register.</description>
+            <name>Дисплей холодных блюд</name>
+            <description>Постройте в кафе, чтобы показать ваши холодные блюда, приготовленные на кухне! Пассажиры забирают их и относят на кассу.</description>
         </FoodCooler>
         <HotPlate>
-            <name>Hot Plate</name>
-            <description>These must be placed in your kitchen to allow hot food to be stored while it waits to be delivered.</description>
+            <name>Электроплита</name>
+            <description>Они должны быть размещены в вашей кухне, чтобы можно было хранить горячую еду в ожидании доставки.</description>
         </HotPlate>
         <ArcadeDriving>
             <name>Arcade Driver Game</name>
@@ -717,8 +717,8 @@
             <description>Allows roads to transition down a single level.</description>
         </RoadRampDown>
         <UndergroundFuelTank>
-            <name>Underground Fuel Tank</name>
-            <description>Underground fuel storage tank in an extra large form factor.  Takes up all of floors -1 and -2 wherever it is placed and requires nothing above it during construction.</description>
+            <name>Подземный топливный бак</name>
+            <description>Очень большой подземный резервуар для хранения топлива. Занимает все этажи -1 и -2, где бы он ни находился, и ничего не требует под ним во время строительства.</description>
         </UndergroundFuelTank>
         <displaydescription>Display {0} for your passengers to buy in Store zones! Can hold {1} at a time.</displaydescription>
         <BookDisplayA>
